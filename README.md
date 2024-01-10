@@ -1,5 +1,5 @@
 # HTML-Webcam
-Streaming my Webcam to HTML Page.
+Streaming the Webcamera to HTML Page.
 
 ## Code Implementation
 ```html
