@@ -1,5 +1,5 @@
 # HTML-Webcam
-Streaming the Webcamera to HTML Page.
+Streaming the Webcamera to HTML page.
 
 ## Code Implementation
 ```html
@@ -23,7 +23,6 @@ Streaming the Webcamera to HTML Page.
 </style>
 </head>
 <body>
-    <!-- <video id="webCam" width="1000" height="600"></video> -->
     <video id="webCam" autoplay playsinline width="1000" height="600"></video>
     <canvas id="canvas"></canvas>
     <a download onClick="takePicture()">SNAP</a>
