@@ -1,4 +1,4 @@
-# HTML-Webcam
+# html-webcam
 Streaming the Webcamera to HTML page.
 
 ## Code Implementation
